@@ -60,7 +60,7 @@ and confirmed before the session.
   - ATTENDEES (I use this with students:
     - D.I. von Briesen userid: divonbriesen was here 3/10/2020 at 10:14pm
     - put your name here with userid and date and time
-    - and your name here
+    - Bob Husson bobhusson 3-11-2020 10:08
     - and your name here...
   - save and check github desktop - notice conflicts - to fix first pull origin, then view in visual studio code, and merge. Save, commit, and push origin. 
     - Need to invite collaborators (settings, collaborate- need to add users by their github id's). 
